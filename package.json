@@ -1,8 +1,8 @@
 {
-  "name": "grunt-grunticon",
-  "description": "A mystical CSS icon solution",
+  "name": "grunt-grunticon-jspoe",
+  "description": "A mystical CSS icon solution - Forked for grunticon-lib-jspoe dependency",
   "version": "2.3.2",
-  "homepage": "https://github.com/filamentgroup/grunticon",
+  "homepage": "https://github.com/jspoe/grunticon",
   "author": {
     "name": "Scott Jehl",
     "email": "scott@filamentgroup.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filamentgroup/grunticon"
+    "url": "https://github.com/jspoe/grunticon"
   },
   "bugs": {
-    "url": "https://github.com/filamentgroup/grunticon/issues"
+    "url": "https://github.com/jspoe/grunticon/issues"
   },
   "license": "MIT",
   "main": "Gruntfile.js",
@@ -24,7 +24,7 @@
     "test": "grunt travis --verbose"
   },
   "dependencies": {
-    "grunticon-lib": "^1.2.3"
+    "grunticon-lib-jspoe": "^1.2.3"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
