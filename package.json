@@ -1,7 +1,7 @@
 {
   "name": "grunt-grunticon-jspoe",
   "description": "A mystical CSS icon solution - Forked for grunticon-lib-jspoe dependency",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "homepage": "https://github.com/jspoe/grunticon",
   "author": {
     "name": "Scott Jehl",
